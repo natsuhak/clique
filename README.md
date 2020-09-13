@@ -43,7 +43,7 @@ effort where everyone that benefits can share the cost.
 
 Have you seen all those services to build personal websites? Well, the plan is to do the same thing for social media platforms. 
 
-If you want to communicate or share content with your family and friends without a third party selling your data, you set up yourown platform.
+If you want to communicate or share content with your family and friends without a third party selling your data, you set up your own platform.
 This means that you will cover hosting and domain costs, but all the **tools** will be there to make it as easy and painless as possible. If it
 seems that covering the cost for an entire year by yourself is too much, you can always ask your friends to help 😉. 
 
@@ -56,7 +56,7 @@ participate in?
 * Who is responsible for the content inside the server?
 * How variable would be the performance between different clique servers?
 
-To address these problems we propose to build Clique in layers with a very rough roadmap.
+To address these problems we propose to build Clique in layers with a very rough roadmap:
 
 ### Security Layer and IM Client
 
@@ -102,8 +102,8 @@ The main objective is to democratize social media, so we want everyone to be abl
 
 ## Who will do it?
 
-This is no trivial project, so we expect all the community to participate. If you want to contribute, the help is greatly appreciated!
+This is no trivial project, so we expect all the community to participate. If you want to contribute, the help is greatly appreciated.
 
-Clique should be a platform truly made by the people for the people.
+Clique should be a platform truly made by the people for the people, so if you think there is stuff that the proposed roadmap is missing or that is non-essential, let us know!
 
 
